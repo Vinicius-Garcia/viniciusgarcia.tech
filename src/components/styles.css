@@ -37,6 +37,7 @@
 }
 .buttons a:hover{
   color: #ff3d3d;
+  cursor: pointer;
 }
 .imgLogo{
   width:6rem;
