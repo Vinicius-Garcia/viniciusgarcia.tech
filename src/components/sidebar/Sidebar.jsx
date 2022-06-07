@@ -16,13 +16,14 @@ export function Sidebar(){
       <a href="#">Sobre</a>
       <a href="#">Projetos</a>
       </div>
-      
-      </div>
       <div className="social">
            <a href="https://www.linkedin.com/in/vinicius-da-silva-garcia/" target="_blank"><img src={linkedin} alt="icone do linkedin"  /></a>
            <a  href="https://www.github.com/Vinicius-Garcia" target="_blank"><img src={github} alt="icone do github" /></a>
            <a  href="https://www.twitter.com/viniciusdsg1" target="_blank"><img src={twitter} alt="icone do twitter"/></a>
       </div>
+      
+      </div>
+      
     </div>
   )
 }
