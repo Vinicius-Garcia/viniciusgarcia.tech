@@ -46,3 +46,8 @@
 .social img{
   height:3rem;
 }
+
+.social a:hover{
+  filter: brightness(0.5);
+  transition: all 0.3s ease-in-out;
+}
