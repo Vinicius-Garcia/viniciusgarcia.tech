@@ -1,7 +1,7 @@
-import imagemLogo from '../assets/perfil.jpg'
-import twitter from '../assets/Frame.svg'
-import github from '../assets/githab.svg'
-import linkedin from '../assets/linkedin.svg'
+import imagemLogo from '../../assets/perfil.jpg'
+import twitter from '../../assets/Frame.svg'
+import github from '../../assets/githab.svg'
+import linkedin from '../../assets/linkedin.svg'
 import './styles.css'
 
 export function Sidebar(){
