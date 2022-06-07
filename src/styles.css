@@ -1,0 +1,16 @@
+.sidebars{
+  height: 100vh;
+  display: absolute;
+}
+.content{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+height: 100%;
+  width: 100%;
+  background-color:rgba(0,0,0,0.88);
+}
+.wrapper{
+  display: flex;
+
+}
