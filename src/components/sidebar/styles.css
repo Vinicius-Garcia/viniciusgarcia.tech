@@ -27,6 +27,7 @@
   justify-content: space-around;
   align-items: center;
   margin-top: 8rem;
+  gap: 4rem;
 }
 .buttons a{
   text-decoration: none;
